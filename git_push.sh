@@ -22,7 +22,7 @@
 # increases the git http buffer size to 500 MB
 # git config --global http.postBuffer 524288000
 
-files=( $(find ./ -type f) )
+files=( $(find ./EMA_files -type f) )
 
 
 batch_size=4000
