@@ -1,77 +1,185 @@
-# template
+# secretory-meningioma
 
 
-**template for pathology atlas repositories**
+**secretory-meningioma for pathology atlas repositories**
 
 
-{{< include ./_subchapters/_template.qmd >}}
-
-
-```
-see [make-html-WSI](https://github.com/pathologyatlas/make-html-WSI) for more information and [TODO](https://github.com/pathologyatlas/TODO) to add cases
-```
-
-```
-update html file heading:
-
-<title>TemplateEN TemplateTR</title>
-
-<meta name="keywords" content="TemplateEN, TemplateTR, patoloji, atlas, pathology, whole slide image">
-
-<meta name="description" content="TemplateEN TemplateTR">
-
-```
-
-
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-```
-update html file to match .dzi file
-
-```
-
-
-> consider using git_push.sh script to upload files to github, since the number of generated files is huge
-
-> after upload complete, do not forget to activate github pages for the new repository
-
-
-
-
-
-<title>TemplateEN TemplateTR</title>
-<meta name="keywords" content="TemplateEN, TemplateTR, patoloji, atlas, pathology, whole slide image">
-<meta name="description" content="TemplateEN TemplateTR">
+{{< include ./_subchapters/_secretory-meningioma.qmd >}}
 
 
 
 
 
 
-[https://images.patolojiatlasi.com/template/](https://images.patolojiatlasi.com/template/)
 
-[https://images.patolojiatlasi.com/template/HE1.html](https://images.patolojiatlasi.com/template/HE1.html)
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
 
-
-**TemplateTR**
-
-[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/template/HE1.html)
-
-<a href="https://images.patolojiatlasi.com/template/HE1.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE1.png" style="width:25%;"></a>
+[https://images.patolojiatlasi.com/secretory-meningioma/HE1.html](https://images.patolojiatlasi.com/secretory-meningioma/HE1.html)
 
 
+**sekretuar meningiom**
 
-**TemplateEN**
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/HE1.html)
 
-[Click for Full Screen WSI](https://images.patolojiatlasi.com/template/HE1.html)
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/HE1.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE1.png" style="width:25%;"></a>
 
-<a href="https://images.patolojiatlasi.com/template/HE1.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE1.png" style="width:25%;"></a>
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/HE1.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/HE1.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE1.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/HE2.html](https://images.patolojiatlasi.com/secretory-meningioma/HE2.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/HE2.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/HE2.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE2.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/HE2.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/HE2.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE2.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/EMA.html](https://images.patolojiatlasi.com/secretory-meningioma/EMA.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/EMA.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/EMA.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-EMA.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/EMA.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/EMA.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-EMA.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html](https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-mCEA.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-mCEA.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/PAS.html](https://images.patolojiatlasi.com/secretory-meningioma/PAS.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/PAS.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/PAS.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PAS.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/PAS.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/PAS.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PAS.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/PR.html](https://images.patolojiatlasi.com/secretory-meningioma/PR.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/PR.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/PR.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PR.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/PR.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/PR.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PR.png" style="width:25%;"></a>
+
+
+
+
+
+
+
+[https://images.patolojiatlasi.com/secretory-meningioma/](https://images.patolojiatlasi.com/secretory-meningioma/)
+
+[https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html](https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html)
+
+
+**sekretuar meningiom**
+
+[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-Ki67.png" style="width:25%;"></a>
+
+
+
+**secretory meningioma**
+
+[Click for Full Screen WSI](https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html)
+
+<a href="https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-Ki67.png" style="width:25%;"></a>
 
 
 
@@ -81,37 +189,12 @@ update html file to match .dzi file
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE1.html" style="height:600px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/HE1.html" style="height:600px;width:100%;" data-external="1"></iframe>
 
 
 See Microscopy with viewer:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE1.html" style="height:600px;width:100%;" data-external="1"></iframe>
-
-
-
-
-
-
-
-[https://images.patolojiatlasi.com/template/](https://images.patolojiatlasi.com/template/)
-
-[https://images.patolojiatlasi.com/template/HE2.html](https://images.patolojiatlasi.com/template/HE2.html)
-
-
-**TemplateTR**
-
-[Tam Ekran Görmek İçin Resmi Tıklayın](https://images.patolojiatlasi.com/template/HE2.html)
-
-<a href="https://images.patolojiatlasi.com/template/HE2.html"><img alt="Tam Ekran Görmek İçin Resmi Tıklayın" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE2.png" style="width:25%;"></a>
-
-
-
-**TemplateEN**
-
-[Click for Full Screen WSI](https://images.patolojiatlasi.com/template/HE2.html)
-
-<a href="https://images.patolojiatlasi.com/template/HE2.html"><img alt="Click for Full Screen WSI" src ="https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE2.png" style="width:25%;"></a>
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/HE1.html" style="height:600px;width:100%;" data-external="1"></iframe>
 
 
 
@@ -121,22 +204,99 @@ See Microscopy with viewer:
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
 
 
 See Microscopy with viewer:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/HE2.html" style="height:600px;width:100%;" data-external="1"></iframe>
 
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/EMA.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/EMA.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/PAS.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/PAS.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/PR.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/PR.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+
+
+
+
+
+Mikroskopik görüntüleri inceleyin:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+See Microscopy with viewer:
+
+<iframe src="https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html" style="height:600px;width:100%;" data-external="1"></iframe>
+
+
+<hr>
 
 
 
 
 ```yaml
-- stainname: template-HE1
-  reponame: template
-  titleTR: TemplateTR
-  titleEN: TemplateEN
+- stainname: secretory-meningioma-HE1
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
   organTR: ''
   organEN: ''
   speciality: ''
@@ -144,8 +304,8 @@ See Microscopy with viewer:
   author:
   - Serdar Balci
   - Memorial Patoloji
-  date: 2024-03-09
-  url: https://images.patolojiatlasi.com/template/HE1.html
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/HE1.html
   note: ''
   categoriesTR:
   - ''
@@ -163,19 +323,19 @@ See Microscopy with viewer:
   - atlas
   - histopathology
   - whole slide image
-  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE1.png
-  github: https:///github.com/pathologyatlas/template
-  githubpage: https://pathologyatlas.github.io/template
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE1.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
   youtube: https://www.youtube.com/watch?v=youtube_link
 ```
 
 
 
 ```yaml
-- stainname: template-HE2
-  reponame: template
-  titleTR: TemplateTR
-  titleEN: TemplateEN
+- stainname: secretory-meningioma-HE2
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
   organTR: ''
   organEN: ''
   speciality: ''
@@ -183,8 +343,8 @@ See Microscopy with viewer:
   author:
   - Serdar Balci
   - Memorial Patoloji
-  date: 2024-03-09
-  url: https://images.patolojiatlasi.com/template/HE2.html
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/HE2.html
   note: ''
   categoriesTR:
   - ''
@@ -202,11 +362,208 @@ See Microscopy with viewer:
   - atlas
   - histopathology
   - whole slide image
-  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_template-HE2.png
-  github: https:///github.com/pathologyatlas/template
-  githubpage: https://pathologyatlas.github.io/template
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-HE2.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
   youtube: https://www.youtube.com/watch?v=youtube_link
 ```
+
+
+
+```yaml
+- stainname: secretory-meningioma-EMA
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/EMA.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-EMA.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
+  youtube: https://www.youtube.com/watch?v=youtube_link
+```
+
+
+
+```yaml
+- stainname: secretory-meningioma-mCEA
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/mCEA.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-mCEA.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
+  youtube: https://www.youtube.com/watch?v=youtube_link
+```
+
+
+
+```yaml
+- stainname: secretory-meningioma-PAS
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/PAS.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PAS.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
+  youtube: https://www.youtube.com/watch?v=youtube_link
+```
+
+
+
+```yaml
+- stainname: secretory-meningioma-PR
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/PR.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-PR.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
+  youtube: https://www.youtube.com/watch?v=youtube_link
+```
+
+
+
+```yaml
+- stainname: secretory-meningioma-Ki67
+  reponame: secretory-meningioma
+  titleTR: sekretuar meningiom
+  titleEN: secretory meningioma
+  organTR: ''
+  organEN: ''
+  speciality: ''
+  type: published
+  author:
+  - Serdar Balci
+  - Memorial Patoloji
+  date: 2024-03-10
+  url: https://images.patolojiatlasi.com/secretory-meningioma/Ki67.html
+  note: ''
+  categoriesTR:
+  - ''
+  - ''
+  - ''
+  - patoloji
+  - atlas
+  - histopatoloji
+  - whole slide image
+  categoriesEN:
+  - ''
+  - ''
+  - ''
+  - pathology
+  - atlas
+  - histopathology
+  - whole slide image
+  screenshot: https://www.patolojiatlasi.com/screenshots/thumbnail_secretory-meningioma-Ki67.png
+  github: https:///github.com/pathologyatlas/secretory-meningioma
+  githubpage: https://pathologyatlas.github.io/secretory-meningioma
+  youtube: https://www.youtube.com/watch?v=youtube_link
+```
+
+
 
 
 
@@ -222,9 +579,6 @@ See Microscopy with viewer:
 - Sosyal medyadan derlenen görüntülerden oluşan patoloji notları için [tıklayın](https://www.patolojinotlari.com/).
 
 - For social media based pathology notes [click here](https://www.patolojinotlari.com/).
-
-<a href="https://www.patolojinotlari.com/"><img src ="https://www.patolojiatlasi.com/images/patolojinotlari.com.png" style="width:50%;"></a>
-
 
 
 <iframe width="160" height="400" src="https://leanpub.com/patolojiatlasi/embed" frameborder="0" allowtransparency="true"></iframe>
@@ -251,5 +605,8 @@ See Microscopy with viewer:
 | [![](https://img.shields.io/github/license/patolojiatlasi/patolojiatlasi.github.io)](https://github.com/patolojiatlasi/patolojiatlasi.github.io/blob/main/LICENSE)                                                                                                                                       |
 | <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.patolojiatlasi.com%2F%20@patolojinotlari%20@serdarbalci%20"><img src="https://img.shields.io/twitter/url?label=Patoloji%20Atlas%C4%B1&amp;style=social&amp;url=https%3A%2F%2Fwww.patolojiatlasi.com%2F" alt="Twitter"/></a>    |
 | <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.patolojinotlari.com%2F%20@patolojinotlari%20@serdarbalci%20"><img src="https://img.shields.io/twitter/url?label=Patoloji%20Notlar%C4%B1&amp;style=social&amp;url=https%3A%2F%2Fwww.patolojinotlari.com%2F" alt="Twitter"/></a> |
+
+
+
 
 
