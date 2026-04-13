@@ -292,6 +292,23 @@ See Microscopy with viewer:
 
 
 
+
+
+---
+
+### Viewing Modes
+
+- [All Stains (Sequential)](https://images.patolojiatlasi.com/secretory-meningioma/all.html) - Browse EMA, HE1, HE2, Ki67, PAS, PR, mCEA stains in sequence
+- [Side by Side Comparison](https://images.patolojiatlasi.com/secretory-meningioma/sidebyside.html) - View stains in synchronized panels
+- [Curtain Comparison](https://images.patolojiatlasi.com/secretory-meningioma/curtain.html) - Overlay two stains with a draggable slider
+
+### Görüntüleme Modları
+
+- [Tüm Boyamalar (Sıralı)](https://images.patolojiatlasi.com/secretory-meningioma/all.html) - Tüm boyamaları sırayla inceleyin
+- [Yan Yana Karşılaştırma](https://images.patolojiatlasi.com/secretory-meningioma/sidebyside.html) - Boyamaları eş zamanlı panellerde görüntüleyin
+- [Perde Karşılaştırma](https://images.patolojiatlasi.com/secretory-meningioma/curtain.html) - İki boyamayı sürgülü perde ile karşılaştırın
+
+
 ```yaml
 - stainname: secretory-meningioma-HE1
   reponame: secretory-meningioma
